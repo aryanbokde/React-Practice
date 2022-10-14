@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Bryan DeArdo",
+            "title": "Steelers vs. Browns score, takeaways: Nick Chubb, Amari Cooper power Cleveland past Pittsburgh - CBS Sports",
+            "description": "Cleveland's offensive duo shined on prime time",
+            "url": "https://www.cbssports.com/nfl/news/steelers-vs-browns-score-takeaways-nick-chubb-amari-cooper-power-cleveland-past-pittsburgh/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/23/74b35def-9b2a-413a-832a-94afe0b59286/thumbnail/1200x675/380dc025d646683467a61559f83e2000/chubb-pitt.png",
+            "publishedAt": "2022-09-23T06:21:00Z",
+            "content": "Four days after their gut-wrenching loss, the Browns rebounded by defeating their longtime rivals at home on \"Thursday Night Football.\" Aided by Nick Chubb and a strong second half by their defense, … [+5932 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Kim Chandler",
+            "title": "Alabama execution called off for time and medical concerns - The Associated Press",
+            "description": "ATMORE, Ala. (AP) — Alabama officials called off the Thursday lethal injection of a man convicted in a 1999 workplace shooting because of time concerns and trouble accessing the inmate’s veins. Alabama Corrections Commissioner John Hamm said the state halted …",
+            "url": "https://apnews.com/d028c2d62f0e0fa919797030b06c30b0",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8bda13ea8f9c497db67d7610aa3afcc6/1992.jpeg",
+            "publishedAt": "2022-09-23T05:48:45Z",
+            "content": "ATMORE, Ala. (AP) Alabama officials called off the Thursday lethal injection of a man convicted in a 1999 workplace shooting because of time concerns and trouble accessing the inmates veins.\r\nAlabama… [+4543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "Futures fall following another day of losses after Fed rate hike, sell-offs - CNBC",
+            "description": "Futures were lower on Friday morning as investors continued responding to the Fed's decision.",
+            "url": "https://www.cnbc.com/2022/09/22/futures-inch-higher-following-another-day-of-losses-after-fed-rate-hike-sell-offs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122924-1663861625547-nys2.jpg?v=1663884877&w=1920&h=1080",
+            "publishedAt": "2022-09-23T05:23:00Z",
+            "content": "Stock futures were lower on Friday morning as investors continued reacting to the Fed's rate hike and concerns over a potential economic downswing.\r\nThe Nasdaq 100 was down 0.48%. Dow Jones Industria… [+1769 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marshall Cohen",
+            "title": "Mar-a-Lago special master orders Trump team to back up any claims of FBI 'planting' evidence - CNN",
+            "description": "The special master overseeing the Mar-a-Lago documents investigation has ordered former President Donald Trump's lawyers to back up out-of-court assertions that the FBI may have planted evidence at the property during their search last month.",
+            "url": "https://www.cnn.com/2022/09/22/politics/mar-a-lago-special-master-trump-fbi-planting-evidence/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220809194201-mar-a-lago-pba.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-23T04:50:00Z",
+            "content": "The special master overseeing the Mar-a-Lago documents investigation has ordered former President Donald Trumps lawyers to back up out-of-court assertions that the FBI may have planted evidence at th… [+4819 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Amy B Wang, Min Joo Kim",
+            "title": "South Korean president overheard insulting U.S. Congress as 'idiots' - The Washington Post",
+            "description": "In comments caught on a hot mic, South Korean President Yoon Suk-yeol said the U.S. Congress would be an embarrassment to President Biden if it did not pass funding for global public health.",
+            "url": "https://www.washingtonpost.com/politics/2022/09/22/yoon-biden-congress-idiots/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JVDOLBR2DUI63OFPBICOLXB5WY.jpg&w=1440",
+            "publishedAt": "2022-09-23T03:32:22Z",
+            "content": "South Korean President Yoon Suk-yeol was caught on a hot mic Wednesday insulting U.S. Congress members as idiots who could be a potential embarrassment for President Biden if they did not approve fun… [+2916 chars]"
+        }
+    ]
+}
